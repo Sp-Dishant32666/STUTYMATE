@@ -1,0 +1,6 @@
+{
+  "name": "PageLedger",
+  "description": "Camera-first study notebook scanner that checks corner dates, detects repeated pages with Gemini, awards content-based points, and lets you redeem chill time.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
